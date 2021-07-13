@@ -21,7 +21,7 @@
 title: Quick-Refs
 description: Quick References for web developers and software engineers
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://quick-refs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://quick-refs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/quick-refs.png"
